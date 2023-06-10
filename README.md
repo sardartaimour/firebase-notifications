@@ -1,2 +1,4 @@
-# firebase-notifications
-firebase-notifications using angular 10
+# Hi there 👋
+
+
+# Hi, I'm Taimour Ali! 
